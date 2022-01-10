@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/2trkavyv71u1cp49?svg=true)](https://ci.appveyor.com/project/zuev720/ahj-3-1)
 
-
+[GitHub-pages](https://zuev720.github.io/ahj-3.1/)
 
 ### Игра с гоблинами
 
